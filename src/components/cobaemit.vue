@@ -88,7 +88,7 @@ export default {
       showKuliah: false,
       kuliahList: [
         { name: 'Tugas 1 ', url: 'https://ahmad-projectcv.netlify.app' },
-        { name: 'Tugas 2', url: '/tugas2/freetugas' },
+        { name: 'Tugas 2', url: 'marifahmadn-223510434-lab-t2freetugas.netlify.app' },
         { name: 'Tugas 3', url: 'https://marifahmad.netlify.app' },
         { name: 'Tugas 4', url: 'https://marifahmad-223510434-prapbk.netlify.app' },
         { name: 'Tugas 5', url: 'https://marifahmad-223510434-ppbk-t5-landingp.netlify.app' },
